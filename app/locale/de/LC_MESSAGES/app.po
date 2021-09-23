@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.com\n"
 "Project-Id-Version: Landing\n"
-"PO-Revision-Date: 2021-09-23 15:07\n"
+"PO-Revision-Date: 2021-09-23 15:14\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
 "Language: de\n"
@@ -361,7 +361,7 @@ msgstr ""
 #: pages/uslugi/prosmotry-v-tiktok/index.vue:83
 #: pages/uslugi/prosmotry-v-youtube/index.vue:65
 msgid "5 причин заказать просмотры у нас:"
-msgstr ""
+msgstr "5 Gründe, Ansichten bei uns zu bestellen:"
 
 #: pages/uslugi/reposty-v-tiktok/index.vue:87
 #: pages/uslugi/reposty-v-vkontakte/index.vue:82
@@ -396,7 +396,7 @@ msgstr ""
 #: pages/uslugi/reposty-v-vkontakte/index.vue:88 pages/vk/index.vue:94
 #: pages/youtube/index.vue:78
 msgid "5) Быстрый запуск."
-msgstr ""
+msgstr "5) Schnellstart."
 
 #: pages/uslugi/avtolajki-v-vkontakte/index.vue:30
 msgid "Авто накрутка лайков в ВKонтакте - заказать услуги по SMM продвижению. Цены на продвижение в ВKонтакте и YouTube: накрутка лайков, просмотров, подписчиков и комментариев по доступным ценам."
