@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.com\n"
 "Project-Id-Version: Landing\n"
-"PO-Revision-Date: 2021-09-23 15:14\n"
+"PO-Revision-Date: 2021-09-23 15:20\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
 "Language: pt\n"
@@ -984,7 +984,7 @@ msgstr ""
 
 #: pages/uslugi/reposty-v-tiktok/index.vue:64
 msgid "Количество репостов – ключевой показатель популярности в Тик Ток, который способствует развитию профиля."
-msgstr ""
+msgstr "O número de compartilhamentos é um indicador chave de popularidade no TikTok, o que contribui para o desenvolvimento de um perfil."
 
 #: components/landing3/CarouselsCard.vue:56 mixins/landing3.js:127
 msgid "комментариев"
