@@ -55,7 +55,7 @@
 		"@nuxtjs/svg-sprite": "^0.5.2",
 		"cssnano": "^5.0.5",
 		"cssnano-preset-advanced": "^5.1.2",
-		"easygettext": "^2.17.0",
+		"easygettext": "2.17.0",
 		"eslint": "^7.27.0",
 		"eslint-config-standard": "^16.0.3",
 		"eslint-import-resolver-nuxt": "^1.0.1",
