@@ -27,3 +27,4 @@ static/robots.txt
 
 /tmp
 *~
+/node_modules/
