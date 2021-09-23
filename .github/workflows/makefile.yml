@@ -24,7 +24,7 @@ jobs:
         cache-dependency-path: package-lock.json
        
     - name: Install
-      run: npm run install
+      run: npm install
       
     - name: Clean
       run: make clean
