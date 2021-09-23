@@ -1,6 +1,7 @@
 <template>
     <div class="index">
         {{ $gettext('Первое сообщение, смотрю сюда') }}
+        {{ $gettext('Второе сообщение, смотрю сюда') }}
     </div>
 </template>
 
