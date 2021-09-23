@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.com\n"
 "Project-Id-Version: Landing\n"
-"PO-Revision-Date: 2021-09-23 17:39\n"
+"PO-Revision-Date: 2021-09-23 17:47\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
 "Language: es\n"
@@ -2088,7 +2088,7 @@ msgstr ""
 
 #: pages/index.vue:85 pages/uslugi/istorii-v-instagram/index.vue:49
 msgid "Что такое просмотры Историй в Инстаграм? Как они накручиваются?"
-msgstr ""
+msgstr "¿Qué son las vistas de historias de Instagram? ¿Cómo terminan?"
 
 #: mixins/landing3.js:275
 msgid "Это живые люди?"
