@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.com\n"
 "Project-Id-Version: Landing\n"
-"PO-Revision-Date: 2021-09-23 17:39\n"
+"PO-Revision-Date: 2021-09-23 17:47\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
 "Language: de\n"
@@ -2088,11 +2088,11 @@ msgstr ""
 
 #: pages/index.vue:85 pages/uslugi/istorii-v-instagram/index.vue:49
 msgid "Что такое просмотры Историй в Инстаграм? Как они накручиваются?"
-msgstr ""
+msgstr "Was sind Instagram Story-Ansichten? Wie enden sie?"
 
 #: mixins/landing3.js:275
 msgid "Это живые люди?"
-msgstr ""
+msgstr "Leben diese Leute?"
 
 #: components/landing3/Nav.vue:75
 msgid "Ютуб"
@@ -2100,15 +2100,15 @@ msgstr ""
 
 #: mixins/landing3.js:261
 msgid "Я могу поменять логин после оформления заказа?"
-msgstr ""
+msgstr "Kann ich mein Login nach einer Bestellung ändern?"
 
 #: mixins/landing3.js:280
 msgid "Я нахожусь в другой стране, могу ли я оформить заказ?"
-msgstr ""
+msgstr "Ich bin in einem anderen Land, kann ich eine Bestellung aufgeben?"
 
 #: components/landing3/Order.vue:138
 msgid "Cсылка на аккаунт или логин"
-msgstr ""
+msgstr "Link zum Konto oder Login"
 
 #: components/landing3/Thanks.vue:59
 msgid "Cумма"
