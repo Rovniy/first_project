@@ -41,6 +41,6 @@ jobs:
         # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
         github_token: $\{{ secrets.LOKALISE_TOKEN }}
         # Repository name to push. Default or empty value represents current github repository (${GITHUB_REPOSITORY})
-        repository: 'first_project'
+        repository: 'Rovniy/first_project'
         # Destination branch to push changes
         branch: 'main' # optional, default is master
