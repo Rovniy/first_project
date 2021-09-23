@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.com\n"
 "Project-Id-Version: Landing\n"
-"PO-Revision-Date: 2021-09-23 15:20\n"
+"PO-Revision-Date: 2021-09-23 15:36\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
 "Language: tr\n"
@@ -983,9 +983,8 @@ msgid "Количество репостов – ключевой показат
 msgstr ""
 
 #: pages/uslugi/reposty-v-tiktok/index.vue:64
-#, fuzzy
 msgid "Количество репостов – ключевой показатель популярности в Тик Ток, который способствует развитию профиля."
-msgstr ""
+msgstr "Hisse sayısı, bir profilin geliştirilmesine katkıda bulunan TikTok'taki popülerliğin önemli bir göstergesidir."
 
 #: components/landing3/CarouselsCard.vue:56 mixins/landing3.js:127
 msgid "комментариев"
