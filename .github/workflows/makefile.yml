@@ -1,7 +1,7 @@
 name: Locale CI
 
 on:
-  pull_request:
+  push:
     branches:
       - 'main'
     paths:
@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2   
+    - name: Checkout
+      uses: actions/checkout@v2
 
     - name: Setup Node.js environment
       uses: actions/setup-node@v2.4.0
@@ -32,3 +33,11 @@ jobs:
       
     - name: Generate
       run: make generate
+      
+    - name: Git Commit and Push
+      uses: github-actions-x/commit@v2.8
+      with:
+        # Github Token with commit access
+        github-token: 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
+        # Override branch to push to
+        push-branch: main
