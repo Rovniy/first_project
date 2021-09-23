@@ -25,13 +25,13 @@ jobs:
         cache-dependency-path: package-lock.json
        
     - name: Install
-      run: npm install
+      run: npm ci
       
     - name: Clean
       run: make clean
       
-    - name: Extract
-      run: make extract
-      
     - name: Generate
       run: make generate
+      
+    - name: action-push
+      uses: ludeeus/action-push@0.0.1
