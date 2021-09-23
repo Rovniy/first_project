@@ -1,0 +1,2509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: easygettext\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:48
+msgid "• Повысить доверие к каналу."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:69
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:69
+#: pages/uslugi/podpischiki-v-instagram/index.vue:49
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:68
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:68
+#: pages/uslugi/reposty-v-tiktok/index.vue:68
+#: pages/uslugi/reposty-v-vkontakte/index.vue:56
+msgid "• Повысить доверие к странице."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:70
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:70
+#: pages/uslugi/podpischiki-v-instagram/index.vue:50
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:69
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:69
+#: pages/uslugi/podpischiki-v-youtube/index.vue:49
+#: pages/uslugi/reposty-v-tiktok/index.vue:69
+#: pages/uslugi/reposty-v-vkontakte/index.vue:57
+msgid "• Повысить стоимость продаваемой рекламы на странице."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:68
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:68
+#: pages/uslugi/podpischiki-v-instagram/index.vue:48
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:67
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:67
+#: pages/uslugi/reposty-v-tiktok/index.vue:67
+#: pages/uslugi/reposty-v-vkontakte/index.vue:55
+msgid "• Раскрутить свой бизнес или личный бренд."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:71
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:71
+#: pages/uslugi/podpischiki-v-instagram/index.vue:51
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:70
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:70
+#: pages/uslugi/reposty-v-tiktok/index.vue:70
+#: pages/uslugi/reposty-v-vkontakte/index.vue:58
+msgid "• Увеличить конверсию."
+msgstr ""
+
+#: pages/index.vue:101 pages/tiktok/index.vue:74
+#: pages/uslugi/avtolajki-v-instagram/index.vue:57
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:57
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:57
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:57
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:57
+#: pages/uslugi/druzya-v-vkontakte/index.vue:53
+#: pages/uslugi/istorii-v-instagram/index.vue:65
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:53
+#: pages/uslugi/lajki-v-instagram/index.vue:51
+#: pages/uslugi/lajki-v-tiktok/index.vue:58
+#: pages/uslugi/lajki-v-vkontakte/index.vue:51
+#: pages/uslugi/lajki-v-youtube/index.vue:54
+#: pages/uslugi/podpischiki-v-instagram/index.vue:67
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:53
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:53
+#: pages/uslugi/podpischiki-v-youtube/index.vue:66
+#: pages/uslugi/prosmotry-v-instagram/index.vue:57
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:57
+#: pages/uslugi/prosmotry-v-youtube/index.vue:53
+#: pages/uslugi/reposty-v-tiktok/index.vue:53
+#: pages/uslugi/reposty-v-vkontakte/index.vue:67 pages/vk/index.vue:82
+#: pages/youtube/index.vue:66
+msgid "1) Выбрать необходимый пакет услуг."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:79
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:85
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:85
+msgid "1) Удобный интерфейс, который позволяет заказать автолайки в два клика."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:79
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:85
+msgid ""
+"1) Удобный интерфейс, который позволяет заказать автопросмотры в два клика."
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:92
+msgid ""
+"1) Удобный интерфейс, который позволяет заказать комментарии в два клика."
+msgstr ""
+
+#: pages/index.vue:109 pages/tiktok/index.vue:88
+#: pages/uslugi/lajki-v-instagram/index.vue:62
+#: pages/uslugi/lajki-v-tiktok/index.vue:86
+#: pages/uslugi/lajki-v-vkontakte/index.vue:79
+#: pages/uslugi/lajki-v-youtube/index.vue:68 pages/vk/index.vue:90
+#: pages/youtube/index.vue:74
+msgid "1) Удобный интерфейс, который позволяет заказать лайки в два клика."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:86
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:84
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:84
+#: pages/uslugi/podpischiki-v-youtube/index.vue:82
+msgid ""
+"1) Удобный интерфейс, который позволяет заказать подписчиков в два клика."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:79
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:85
+#: pages/uslugi/prosmotry-v-youtube/index.vue:67
+msgid "1) Удобный интерфейс, который позволяет заказать просмотры в два клика."
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:73
+msgid ""
+"1) Удобный интерфейс, который позволяет заказать просмотры историй в два "
+"клика."
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:84
+msgid "1) Удобный интерфейс, который позволяет заказать репосты в два клика."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:85
+msgid "1) Удобный интерфейс, который позволяет накрутить друзей в два клика."
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:89
+msgid "1) Удобный интерфейс, который позволяет репосты в два клика."
+msgstr ""
+
+#: pages/index.vue:110 pages/tiktok/index.vue:89
+#: pages/uslugi/avtolajki-v-instagram/index.vue:80
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:86
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:86
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:80
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:86
+#: pages/uslugi/druzya-v-vkontakte/index.vue:86
+#: pages/uslugi/istorii-v-instagram/index.vue:74
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:93
+#: pages/uslugi/lajki-v-instagram/index.vue:63
+#: pages/uslugi/lajki-v-tiktok/index.vue:87
+#: pages/uslugi/lajki-v-vkontakte/index.vue:80
+#: pages/uslugi/lajki-v-youtube/index.vue:69
+#: pages/uslugi/podpischiki-v-instagram/index.vue:87
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:85
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:85
+#: pages/uslugi/podpischiki-v-youtube/index.vue:83
+#: pages/uslugi/prosmotry-v-instagram/index.vue:80
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:86
+#: pages/uslugi/prosmotry-v-youtube/index.vue:68
+#: pages/uslugi/reposty-v-tiktok/index.vue:90
+#: pages/uslugi/reposty-v-vkontakte/index.vue:85 pages/vk/index.vue:91
+#: pages/youtube/index.vue:75
+msgid "2) Более 3 лет на рынке."
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:66
+msgid ""
+"2) Ввести логин или ссылку на аккаунт Инстаграм и указать количество "
+"просмотров."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:58
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:58
+#: pages/uslugi/prosmotry-v-youtube/index.vue:54
+msgid "2) Ввести ссылку на видео и указать кол-во просмотров."
+msgstr ""
+
+#: pages/uslugi/lajki-v-tiktok/index.vue:59
+#: pages/uslugi/reposty-v-tiktok/index.vue:54
+msgid "2) Добавить ссылку на видео ТикТок."
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:68
+msgid "2) Добавить ссылку на публикацию ВКонтакте."
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:54
+#: pages/uslugi/lajki-v-vkontakte/index.vue:52
+msgid "2) Добавить ссылку на фото или публикацию ВКонтакте."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:54
+msgid "2) Добавьте ссылку на вашу страницу ВКонтакте."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:58
+msgid ""
+"2) Заполнить количество будущих видео, количество лайков на 1 видео, логин "
+"(без @) или ссылку на аккаунт ТикТок."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:58
+msgid ""
+"2) Заполнить количество будущих видео, количество просмотров на 1 видео, "
+"логин (без @) или ссылку на аккаунт ТикТок."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:58
+msgid ""
+"2) Заполнить количество будущих видео, количество просмотров на 1 видео, "
+"логин или ссылку на аккаунт Инстаграм."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:58
+msgid ""
+"2) Заполнить количество будущих постов, количество лайков на 1 пост, "
+"добавить ссылку на фото или публикацию ВКонтакте."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:58
+msgid ""
+"2) Заполнить количество будущих постов, количество лайков на 1 пост, логин "
+"или ссылку на аккаунт Инстаграм."
+msgstr ""
+
+#: pages/index.vue:102 pages/tiktok/index.vue:75 pages/vk/index.vue:83
+#: pages/youtube/index.vue:67
+msgid "2) Заполнить форму заказа."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:54
+msgid "2) Указать логин или ссылку на аккаунт ТикТок."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:54
+msgid "2) Указать свой логин и количество друзей."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:68
+#: pages/uslugi/podpischiki-v-youtube/index.vue:67
+msgid "2) Указать свой логин и количество подписчиков."
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:55
+msgid "2) Указать ссылку на видео."
+msgstr ""
+
+#: pages/uslugi/lajki-v-instagram/index.vue:52
+msgid "2) Указать ссылку на публикацию."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:88
+msgid "3) Накручиваем с запасом."
+msgstr ""
+
+#: pages/index.vue:111 pages/tiktok/index.vue:90
+#: pages/uslugi/avtolajki-v-instagram/index.vue:81
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:87
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:87
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:81
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:87
+#: pages/uslugi/druzya-v-vkontakte/index.vue:87
+#: pages/uslugi/istorii-v-instagram/index.vue:75
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:94
+#: pages/uslugi/lajki-v-instagram/index.vue:64
+#: pages/uslugi/lajki-v-tiktok/index.vue:88
+#: pages/uslugi/lajki-v-vkontakte/index.vue:81
+#: pages/uslugi/lajki-v-youtube/index.vue:70
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:86
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:86
+#: pages/uslugi/podpischiki-v-youtube/index.vue:84
+#: pages/uslugi/prosmotry-v-instagram/index.vue:81
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:87
+#: pages/uslugi/prosmotry-v-youtube/index.vue:69
+#: pages/uslugi/reposty-v-tiktok/index.vue:91
+#: pages/uslugi/reposty-v-vkontakte/index.vue:86 pages/vk/index.vue:92
+#: pages/youtube/index.vue:76
+msgid "3) Отличное соотношение цена/качество."
+msgstr ""
+
+#: pages/index.vue:103 pages/tiktok/index.vue:76
+#: pages/uslugi/avtolajki-v-instagram/index.vue:59
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:59
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:59
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:59
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:59
+#: pages/uslugi/druzya-v-vkontakte/index.vue:55
+#: pages/uslugi/istorii-v-instagram/index.vue:67
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:55
+#: pages/uslugi/lajki-v-instagram/index.vue:53
+#: pages/uslugi/lajki-v-tiktok/index.vue:60
+#: pages/uslugi/lajki-v-vkontakte/index.vue:53
+#: pages/uslugi/lajki-v-youtube/index.vue:56
+#: pages/uslugi/podpischiki-v-instagram/index.vue:69
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:55
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:55
+#: pages/uslugi/podpischiki-v-youtube/index.vue:68
+#: pages/uslugi/prosmotry-v-instagram/index.vue:59
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:59
+#: pages/uslugi/prosmotry-v-youtube/index.vue:55
+#: pages/uslugi/reposty-v-tiktok/index.vue:55
+#: pages/uslugi/reposty-v-vkontakte/index.vue:69 pages/vk/index.vue:84
+#: pages/youtube/index.vue:68
+msgid "3) Произвести оплату."
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:103
+msgid "300-700 в сутки"
+msgstr ""
+
+#: pages/index.vue:112 pages/tiktok/index.vue:91
+#: pages/uslugi/avtolajki-v-instagram/index.vue:82
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:88
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:88
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:82
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:88
+#: pages/uslugi/druzya-v-vkontakte/index.vue:88
+#: pages/uslugi/istorii-v-instagram/index.vue:76
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:95
+#: pages/uslugi/lajki-v-instagram/index.vue:65
+#: pages/uslugi/lajki-v-tiktok/index.vue:89
+#: pages/uslugi/lajki-v-vkontakte/index.vue:82
+#: pages/uslugi/lajki-v-youtube/index.vue:71
+#: pages/uslugi/podpischiki-v-instagram/index.vue:89
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:87
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:87
+#: pages/uslugi/podpischiki-v-youtube/index.vue:85
+#: pages/uslugi/prosmotry-v-instagram/index.vue:82
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:88
+#: pages/uslugi/prosmotry-v-youtube/index.vue:70
+#: pages/uslugi/reposty-v-tiktok/index.vue:92
+#: pages/uslugi/reposty-v-vkontakte/index.vue:87 pages/vk/index.vue:93
+#: pages/youtube/index.vue:77
+msgid "4) Гарантия от бана и списаний."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:77
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:83
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:83
+msgid "5 причин заказать автолайки у нас:"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:77
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:83
+msgid "5 причин заказать автопросмотры у нас:"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:90
+msgid "5 причин заказать комментарии у нас:"
+msgstr ""
+
+#: pages/uslugi/lajki-v-instagram/index.vue:60
+#: pages/uslugi/lajki-v-tiktok/index.vue:84
+#: pages/uslugi/lajki-v-vkontakte/index.vue:77
+#: pages/uslugi/lajki-v-youtube/index.vue:66
+msgid "5 причин заказать лайки у нас:"
+msgstr ""
+
+#: pages/index.vue:107 pages/tiktok/index.vue:86 pages/vk/index.vue:88
+#: pages/youtube/index.vue:72
+msgid "5 причин заказать накрутку у нас:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:84
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:82
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:82
+#: pages/uslugi/podpischiki-v-youtube/index.vue:80
+msgid "5 причин заказать подписчиков у нас:"
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:71
+msgid "5 причин заказать просмотры историй у нас:"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:77
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:83
+#: pages/uslugi/prosmotry-v-youtube/index.vue:65
+msgid "5 причин заказать просмотры у нас:"
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:87
+#: pages/uslugi/reposty-v-vkontakte/index.vue:82
+msgid "5 причин заказать репосты у нас:"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:83
+msgid "5 причин накрутить друзей у нас:"
+msgstr ""
+
+#: pages/index.vue:113 pages/tiktok/index.vue:92
+#: pages/uslugi/avtolajki-v-instagram/index.vue:83
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:89
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:89
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:83
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:89
+#: pages/uslugi/druzya-v-vkontakte/index.vue:89
+#: pages/uslugi/istorii-v-instagram/index.vue:77
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:96
+#: pages/uslugi/lajki-v-instagram/index.vue:66
+#: pages/uslugi/lajki-v-tiktok/index.vue:90
+#: pages/uslugi/lajki-v-vkontakte/index.vue:83
+#: pages/uslugi/lajki-v-youtube/index.vue:72
+#: pages/uslugi/podpischiki-v-instagram/index.vue:90
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:88
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:88
+#: pages/uslugi/podpischiki-v-youtube/index.vue:86
+#: pages/uslugi/prosmotry-v-instagram/index.vue:83
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:89
+#: pages/uslugi/prosmotry-v-youtube/index.vue:71
+#: pages/uslugi/reposty-v-tiktok/index.vue:93
+#: pages/uslugi/reposty-v-vkontakte/index.vue:88 pages/vk/index.vue:94
+#: pages/youtube/index.vue:78
+msgid "5) Быстрый запуск."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:30
+msgid ""
+"Авто накрутка лайков в ВKонтакте - заказать услуги по SMM продвижению. Цены "
+"на продвижение в ВKонтакте и YouTube: накрутка лайков, просмотров, "
+"подписчиков и комментариев по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:30
+msgid ""
+"Авто накрутка лайков в Инстаграм - заказать услуги по SMM продвижению. Цены "
+"на продвижение в Инстаграм и YouTube: накрутка лайков, просмотров, "
+"подписчиков и комментариев по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:30
+msgid ""
+"Авто накрутка просмотров в Инстаграм - заказать услуги по SMM продвижению. "
+"Цены на продвижение в Инстаграм и YouTube: накрутка лайков, просмотров, "
+"подписчиков и комментариев по доступным ценам."
+msgstr ""
+
+#: mixins/landing3.js:132
+msgid "автолайками"
+msgstr ""
+
+#: mixins/landing3.js:257
+msgid ""
+"Автолайки - это услуга, которая автоматически ставит определенное количество "
+"лайков на будущие публикации. Запуск лайков происходит в течение 5-30 минут "
+"после публикации поста."
+msgstr ""
+
+#: components/landing3/Order.vue:274
+msgid "Автолайки в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:78
+#: pages/uslugi/lajki-v-vkontakte/index.vue:72
+msgid "автолайки в ВKонтакте"
+msgstr ""
+
+#: components/landing3/Order.vue:260
+msgid "Автолайки в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:78
+#: pages/uslugi/lajki-v-tiktok/index.vue:79
+msgid "автолайки в Тик Ток"
+msgstr ""
+
+#: components/landing3/Order.vue:266
+msgid "Автолайки в Тик Ток"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:30
+msgid ""
+"Автолайки в Тик Ток - заказать услуги по SMM продвижению. Быстро накрутим "
+"автолайки в Тик Токе онлайн - платно, без заданий и регистраций."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:72
+#: pages/uslugi/lajki-v-instagram/index.vue:75
+msgid "автолайки в Instagram"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:52 mixins/landing3.js:131
+msgid "автолайков"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:27
+msgid ""
+"Автоматическая накрутка комментариев в Вконтакте, автонакрутка комментариев "
+"в Вконтакте на сайте SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:27
+msgid ""
+"Автоматическая накрутка лайков в ВKонтакте, автонакрутка лайков в ВKонтакте "
+"на сайте SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:27
+msgid ""
+"Автоматическая накрутка лайков в Инстаграм, автонакрутка лайков в Инстаграм "
+"на сайте SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:27
+msgid ""
+"Автоматическая накрутка лайков в Тик Ток, автолайки в Tik Tok на SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:27
+msgid ""
+"Автоматическая накрутка просмотров в Инстаграм, автонакрутка просмотров в "
+"Инстаграм на сайте SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:27
+msgid ""
+"Автоматическая накрутка просмотров в Тик Ток, автопросмотры в Tik Tok на "
+"SMMTouch.com"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:98
+msgid "Автоматический запуск"
+msgstr ""
+
+#: mixins/landing3.js:136
+msgid "автопросмотрами"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:51 mixins/landing3.js:135
+msgid "автопросмотров"
+msgstr ""
+
+#: mixins/landing3.js:258
+msgid ""
+"Автопросмотры - это то же самое, что и автолайки, только для просмотров. "
+"Накрутка просмотров не производится на \"карусели\" (публикации из видео и "
+"фото). Запуск просмотров - в течение 5-30 минут после публикации видео."
+msgstr ""
+
+#: components/landing3/Order.vue:259
+msgid "Автопросмотры в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:78
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:78
+msgid "автопросмотры в Тик Ток"
+msgstr ""
+
+#: components/landing3/Order.vue:267
+msgid "Автопросмотры в Тик Ток"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:30
+msgid ""
+"Автопросмотры в Тик Ток - заказать услуги по SMM продвижению. Оперативно "
+"накрутим автопросмотры в Тик Токе онлайн  - без бана, платно, без заданий и "
+"регистраций."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:72
+#: pages/uslugi/prosmotry-v-instagram/index.vue:72
+msgid "автопросмотры в Instagram"
+msgstr ""
+
+#: mixins/landing3.js:202
+msgid "Аккаунты с аватарками и публикациями."
+msgstr ""
+
+#: components/landing3/Footer.vue:62
+msgid "Блог"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:92 mixins/landing3.js:205
+msgid "Быстрый запуск"
+msgstr ""
+
+#: mixins/landing3.js:162
+msgid "в ВKонтакте"
+msgstr ""
+
+#: mixins/landing3.js:277
+msgid ""
+"В зависимости от текущих алгоритмов социальной сети накрутка производится "
+"смешанного типа: 30% живых подписчиков и остальное качественные боты "
+"(роботы) с аватарками и публикациями."
+msgstr ""
+
+#: mixins/landing3.js:154
+msgid "в Инстаграм"
+msgstr ""
+
+#: mixins/landing3.js:158
+msgid "в Тик Ток"
+msgstr ""
+
+#: mixins/landing3.js:166
+msgid "в YouTube"
+msgstr ""
+
+#: components/landing3/Thanks.vue:53
+msgid "Ваш заказ будет выполнен в ближайшее время"
+msgstr ""
+
+#: components/error/404.vue:19 components/error/500.vue:22
+msgid "Вернуться на главную"
+msgstr ""
+
+#: components/landing3/Nav.vue:73
+msgid "ВКонтакте"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:60
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить друзей в Вконтакте быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:60
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить комментарии в Вконтакте быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:63
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить лайки в Ютуб быстро и дешево."
+msgstr ""
+
+#: pages/vk/index.vue:75
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить лайки, подписчиков и просмотры в ВКонтакте быстро и дешево."
+msgstr ""
+
+#: pages/index.vue:120
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить лайки, подписчиков и просмотры в Инстаграме быстро и дешево."
+msgstr ""
+
+#: pages/tiktok/index.vue:83
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить лайки, подписчиков и просмотры в Тик Ток быстро и дешево."
+msgstr ""
+
+#: pages/youtube/index.vue:59
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить лайки, подписчиков и просмотры в Ютуб быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-youtube/index.vue:62
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить просмотры в Ютуб быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:89
+msgid ""
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить просмотры историй в Инстаграм быстро и дешево."
+msgstr ""
+
+#: components/landing3/Footer.vue:158
+msgid "Все права защищены."
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:90 mixins/landing3.js:201
+msgid "Высокое качество"
+msgstr ""
+
+#: mixins/landing3.js:161
+msgid "ВKонтакте"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:91
+msgid "Гарантия от списаний"
+msgstr ""
+
+#: components/landing3/Nav.vue:80
+msgid "Главная"
+msgstr ""
+
+#: mixins/landing3.js:250
+msgid "Да, ваш профиль обязательно должен быть открытым."
+msgstr ""
+
+#: mixins/landing3.js:282
+msgid ""
+"Да, конечно. Вы можете оформить заказ из любой страны и выполнить оплату "
+"любым удобным вам способом."
+msgstr ""
+
+#: mixins/validationShort.js:12 mixins/validationShort.js:13
+msgid "Данная ссылка не относится к tiktok.com"
+msgstr ""
+
+#: mixins/validationShort.js:9
+msgid "Данная ссылка не относится к vk.com"
+msgstr ""
+
+#: mixins/validationShort.js:14
+msgid "Данная ссылка не относится к youtube.com"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:78
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:85
+#: pages/uslugi/podpischiki-v-instagram/index.vue:79
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:77
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:77
+#: pages/uslugi/podpischiki-v-youtube/index.vue:75
+#: pages/uslugi/reposty-v-tiktok/index.vue:82
+#: pages/uslugi/reposty-v-vkontakte/index.vue:78
+msgid "Дешевая и качественная накрутка – это не просто слова, а реальность."
+msgstr ""
+
+#: mixins/landing3.js:236
+msgid ""
+"Для заказа выберите услугу, введите ссылку и укажите количество. Вас "
+"перенаправит на сайт платежной системы, где нужно будет произвести оплату. "
+"После совершения оплаты Ваш заказ автоматически начнет выполняться."
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:101
+#: components/landing3/CarouselsCard.vue:105
+msgid "До 10 тыс. в сутки"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:94
+msgid "До 20 тыс. в сутки"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:102
+msgid "До 200 в сутки"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:96
+msgid "До 3 тыс. в сутки"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:104
+msgid "До 5 тыс. в сутки"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:97
+msgid "До 500 тыс. в сутки"
+msgstr ""
+
+#: components/landing3/Footer.vue:63
+msgid "Договор оферты"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:55 mixins/landing3.js:123
+msgid "друзей"
+msgstr ""
+
+#: components/landing3/Order.vue:272
+#: pages/uslugi/druzya-v-vkontakte/index.vue:34
+msgid "Друзья в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:76
+msgid "Друзья не отпишутся?"
+msgstr ""
+
+#: mixins/landing3.js:124
+msgid "друзьями"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:80
+msgid ""
+"Если в течение месяца друзей станет меньше, чем Вы заказали, то мы вернем их "
+"за свой счет!"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:87
+msgid ""
+"Если в течение месяца комментариев станет меньше, чем Вы заказали, то мы "
+"вернем их за свой счет!"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:81
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:79
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:79
+#: pages/uslugi/podpischiki-v-youtube/index.vue:77
+msgid ""
+"Если в течение месяца подписчиков станет меньше, чем Вы заказали, то мы "
+"вернем их за свой счет!"
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:84
+msgid ""
+"Если в течение месяца репостов станет меньше, чем Вы заказали, то мы вернем "
+"их за свой счет!"
+msgstr ""
+
+#: components/landing3/Footer.vue:52
+msgid ""
+"Займись раскруткой своей страницы уже сегодня! Мы привлекаем качественную "
+"аудиторию для Вашего аккаунта, что сделает Вас популярным уже через "
+"несколько часов."
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:57
+msgid ""
+"Запуск комментариев начинается через 5-60 минут после оплаты. Если у вас "
+"есть сомнения, начните с минимального заказа в %{PRICE} рублей за 100 "
+"комментариев и проверьте, как это работает."
+msgstr ""
+
+#: mixins/landing3.js:241
+msgid ""
+"Запуск лайков и просмотров начинается в течение 5-30 минут после оплаты."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:61
+msgid ""
+"Запуск лайков начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 автолайков "
+"и проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, и у вас "
+"навсегда отпадет вопрос: как накрутить автолайки в Вконтакте быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:61
+msgid ""
+"Запуск лайков начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 автолайков "
+"на 1 будущий пост и проверьте, как это работает. Воспользуйтесь сервисом "
+"SMMTouch, и у вас навсегда отпадет вопрос: как накрутить автолайки в "
+"Инстаграме быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:61
+msgid ""
+"Запуск лайков начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 автолайков "
+"на 1 будущий пост и проверьте, как это работает. Воспользуйтесь сервисом "
+"SMMTouch, и у вас навсегда отпадет вопрос: как накрутить автолайки в Тик Ток "
+"быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/lajki-v-vkontakte/index.vue:55
+msgid ""
+"Запуск лайков начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 лайков и "
+"проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, и у вас "
+"навсегда отпадет вопрос: как накрутить лайки в Вконтакте быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/lajki-v-instagram/index.vue:55
+msgid ""
+"Запуск лайков начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 лайков и "
+"проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, и у вас "
+"навсегда отпадет вопрос: как накрутить лайки в Инстаграме быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/lajki-v-tiktok/index.vue:62
+msgid ""
+"Запуск лайков начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 лайков и "
+"проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, и у вас "
+"навсегда отпадет вопрос: как накрутить лайки в Тик Ток быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:57
+msgid ""
+"Запуск накрутки друзей начинается через 5-300 минут после оплаты. Если у вас "
+"есть сомнения, начните с минимального заказа в %{PRICE} рублей за 100 друзей "
+"и проверьте, как это работает."
+msgstr ""
+
+#: mixins/landing3.js:242
+msgid "Запуск подписчиков - в течение 5-300 минут после оплаты."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:57
+msgid ""
+"Запуск подписчиков начинается через 5-300 минут после оплаты. Если у вас "
+"есть сомнения, начните с минимального заказа в %{PRICE} рублей за 100 "
+"подписчиков и проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, "
+"и у вас навсегда отпадет вопрос: как накрутить подписчиков в Вконтакте "
+"быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:71
+msgid ""
+"Запуск подписчиков начинается через 5-300 минут после оплаты. Если у вас "
+"есть сомнения, начните с минимального заказа в %{PRICE} рублей за 100 "
+"подписчиков и проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, "
+"и у вас навсегда отпадет вопрос: как накрутить подписчиков в Инстаграме "
+"быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:57
+msgid ""
+"Запуск подписчиков начинается через 5-300 минут после оплаты. Если у вас "
+"есть сомнения, начните с минимального заказа в %{PRICE} рублей за 100 "
+"подписчиков и проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, "
+"и у вас навсегда отпадет вопрос: как накрутить подписчиков в Тик Ток быстро "
+"и дешево."
+msgstr ""
+
+#: mixins/landing3.js:243
+msgid "Запуск просмотров историй - в течение 5-60 минут после оплаты."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:61
+msgid ""
+"Запуск просмотров начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 "
+"автопросмотров на 1 будущее видео и проверьте, как это работает. "
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить автопросмотры в Инстаграме быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:61
+msgid ""
+"Запуск просмотров начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 "
+"автопросмотров на 1 будущее видео и проверьте, как это работает. "
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить автопросмотры в Тик Ток быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:61
+msgid ""
+"Запуск просмотров начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 просмотров "
+"и проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, и у вас "
+"навсегда отпадет вопрос: как накрутить просмотры в Инстаграме быстро и "
+"дешево."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:61
+msgid ""
+"Запуск просмотров начинается через 5-30 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рублей за 100 просмотров "
+"и проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, и у вас "
+"навсегда отпадет вопрос: как накрутить просмотры в Тик Ток быстро и дешево."
+msgstr ""
+
+#: mixins/landing3.js:244
+msgid "Запуск репостов - в течение 5-120 минут после оплаты."
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:71
+msgid ""
+"Запуск репостов начинается через 5-120 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рубль за 100 репостов и "
+"проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, и у вас "
+"навсегда отпадет вопрос: как накрутить репосты в Вконтакте быстро и дешево."
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:57
+msgid ""
+"Запуск репостов начинается через 5-120 минут после оплаты. Если у вас есть "
+"сомнения, начните с минимального заказа в %{PRICE} рубль за 100 репостов и "
+"проверьте, как это работает. Воспользуйтесь сервисом SMMTouch, и у вас "
+"навсегда отпадет вопрос: как накрутить репосты в Тик Токе быстро и дешево."
+msgstr ""
+
+#: pages/index.vue:123 pages/tiktok/index.vue:95
+#: pages/uslugi/avtolajki-v-instagram/index.vue:47
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:66
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:66
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:47
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:66
+#: pages/uslugi/druzya-v-vkontakte/index.vue:63
+#: pages/uslugi/istorii-v-instagram/index.vue:80
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:63
+#: pages/uslugi/lajki-v-instagram/index.vue:80
+#: pages/uslugi/lajki-v-tiktok/index.vue:67
+#: pages/uslugi/lajki-v-vkontakte/index.vue:60
+#: pages/uslugi/podpischiki-v-instagram/index.vue:43
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:62
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:62
+#: pages/uslugi/podpischiki-v-youtube/index.vue:43
+#: pages/uslugi/prosmotry-v-instagram/index.vue:47
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:66
+#: pages/uslugi/prosmotry-v-youtube/index.vue:43
+#: pages/uslugi/reposty-v-tiktok/index.vue:62
+#: pages/uslugi/reposty-v-vkontakte/index.vue:63 pages/vk/index.vue:97
+#: pages/youtube/index.vue:81
+msgid "Зачем это нужно?"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:74
+#: pages/uslugi/podpischiki-v-instagram/index.vue:54
+#: pages/uslugi/podpischiki-v-youtube/index.vue:53
+#: pages/uslugi/reposty-v-tiktok/index.vue:74
+msgid "И все, что нужно для этого сделать —"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:73
+msgid ""
+"И все, что нужно для этого сделать — купить друзей в Вконтакте на нашем "
+"сайте."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:72
+msgid ""
+"И все, что нужно для этого сделать — купить подписчиков в Вконтакте на нашем "
+"сайте."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:72
+msgid ""
+"И все, что нужно для этого сделать — купить подписчиков в Тик Ток на нашем "
+"сайте."
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:60
+msgid ""
+"И все, что нужно для этого сделать — купить репосты в Вконтакте на нашем "
+"сайте."
+msgstr ""
+
+#: components/landing3/Nav.vue:72 mixins/landing3.js:153
+msgid "Инстаграм"
+msgstr ""
+
+#: mixins/landing3.js:234
+msgid "Как сделать заказ?"
+msgstr ""
+
+#: pages/index.vue:97 pages/tiktok/index.vue:70
+#: pages/uslugi/avtolajki-v-instagram/index.vue:53
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:53
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:53
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:53
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:53
+#: pages/uslugi/druzya-v-vkontakte/index.vue:49
+#: pages/uslugi/istorii-v-instagram/index.vue:61
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:49
+#: pages/uslugi/lajki-v-instagram/index.vue:47
+#: pages/uslugi/lajki-v-tiktok/index.vue:54
+#: pages/uslugi/lajki-v-vkontakte/index.vue:47
+#: pages/uslugi/podpischiki-v-instagram/index.vue:63
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:49
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:49
+#: pages/uslugi/podpischiki-v-youtube/index.vue:62
+#: pages/uslugi/prosmotry-v-instagram/index.vue:53
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:53
+#: pages/uslugi/prosmotry-v-youtube/index.vue:49
+#: pages/uslugi/reposty-v-tiktok/index.vue:49
+#: pages/uslugi/reposty-v-vkontakte/index.vue:50 pages/vk/index.vue:78
+#: pages/youtube/index.vue:62
+msgid "Как это работает?"
+msgstr ""
+
+#: mixins/landing3.js:266
+msgid "Какие гарантии?"
+msgstr ""
+
+#: pages/vk/index.vue:99
+msgid ""
+"Качественная накрутка в ВК стала отличным инструментом для развития профиля, "
+"она помогает вывести аккаунт и публикации в топ, увеличить поведенческие "
+"факторы и конверсию страницы."
+msgstr ""
+
+#: pages/index.vue:125
+msgid ""
+"Качественная накрутка в Инстаграме стала отличным инструментом для развития "
+"профиля, она помогает вывести аккаунт и публикации в топ, увеличить "
+"поведенческие факторы и конверсию страницы."
+msgstr ""
+
+#: pages/tiktok/index.vue:97
+msgid ""
+"Качественная накрутка в Тик Ток стала отличным инструментом для развития "
+"профиля, она помогает вывести аккаунт и публикации в топ, увеличить "
+"поведенческие факторы и конверсию страницы."
+msgstr ""
+
+#: pages/youtube/index.vue:83
+msgid ""
+"Качественная накрутка в Ютуб стала отличным инструментом для развития "
+"аккаунта, она помогает вывести видео в топ и увеличить поведенческие факторы."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:49
+msgid ""
+"Качественные автолайки в Инстаграме стали отличным инструментом для развития "
+"профиля, они показывают, насколько интересен тот или иной пост, способны "
+"добавить страничке живую активность и увеличить количество подписчиков. Чем "
+"больше пост их собирает, тем популярнее становится и сам Instagram-аккаунт."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:49
+msgid ""
+"Качественные автопросмотры в Инстаграме стали отличным инструментом для "
+"развития профиля, они показывают, насколько интересен тот или иной пост, "
+"способны добавить страничке живую активность и увеличить количество "
+"подписчиков. Чем больше пост их собирает, тем популярнее становится и сам "
+"Instagram-аккаунт."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:68
+msgid ""
+"Качественные автопросмотры в Тик Ток стали отличным инструментом для "
+"развития профиля, они показывают, насколько интересен тот или иной пост, "
+"способны добавить страничке живую активность и увеличить количество "
+"подписчиков. Чем больше пост их собирает, тем популярнее становится и сам "
+"Тик Ток-аккаунт."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:68
+#: pages/uslugi/lajki-v-vkontakte/index.vue:62
+msgid ""
+"Качественные лайки в Вконтакте стали отличным инструментом для развития "
+"профиля, они показывают, насколько интересен тот или иной пост, способны "
+"добавить страничке живую активность и увеличить количество подписчиков. Чем "
+"больше пост их собирает, тем популярнее становится и сам Вконтакте-аккаунт."
+msgstr ""
+
+#: pages/uslugi/lajki-v-instagram/index.vue:82
+msgid ""
+"Качественные лайки в Инстаграме стали отличным инструментом для развития "
+"профиля, они показывают, насколько интересен тот или иной пост, способны "
+"добавить страничке живую активность и увеличить количество подписчиков. Чем "
+"больше пост их собирает, тем популярнее становится и сам Instagram-аккаунт."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:68
+#: pages/uslugi/lajki-v-tiktok/index.vue:69
+msgid ""
+"Качественные лайки в Тик Ток стали отличным инструментом для развития "
+"профиля, они показывают, насколько интересен тот или иной пост, способны "
+"добавить страничке живую активность и увеличить количество подписчиков. Чем "
+"больше пост их собирает, тем популярнее становится и сам Тик Ток-аккаунт."
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:46
+msgid ""
+"Качественные лайки в YouTube стали отличным инструментом для развития "
+"профиля, они показывают, насколько интересно то или иное видео, способны "
+"добавить видео живую активность и увеличить количество подписчиков."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:49
+msgid ""
+"Качественные просмотры в Инстаграме стали отличным инструментом для развития "
+"профиля, они показывают, насколько интересен тот или иной пост, способны "
+"добавить страничке живую активность и увеличить количество подписчиков. Чем "
+"больше видео их собирает, тем популярнее становится и сам Instagram-аккаунт."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:68
+msgid ""
+"Качественные просмотры в Тик Ток стали отличным инструментом для развития "
+"профиля, они показывают, насколько интересен тот или иной пост, способны "
+"добавить страничке живую активность и увеличить количество подписчиков. Чем "
+"больше видео их собирает, тем популярнее становится и сам Тик Ток-аккаунт."
+msgstr ""
+
+#: components/landing3/Order.vue:197
+msgid "Количество"
+msgstr ""
+
+#: components/landing3/Order.vue:201
+msgid "Количество будущих постов"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:65
+msgid ""
+"Количество друзей – ключевой показатель популярности в Вконтакте, который "
+"способствует развитию профиля."
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:65
+msgid ""
+"Количество комментариев – ключевой показатель популярности в Вконтакте, "
+"который способствует развитию профиля."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:64
+msgid ""
+"Количество подписчиков – ключевой показатель популярности в Вконтакте, "
+"который способствует развитию профиля."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:45
+msgid ""
+"Количество подписчиков – ключевой показатель популярности в Инстаграм, "
+"который способствует развитию профиля."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:64
+msgid ""
+"Количество подписчиков – ключевой показатель популярности в Тик Ток, который "
+"способствует развитию профиля."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:45
+msgid ""
+"Количество подписчиков – ключевой показатель популярности канала в YouTube, "
+"который способствует развитию профиля."
+msgstr ""
+
+#: components/landing3/Order.vue:202
+msgid "Количество постов"
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:52
+msgid ""
+"Количество репостов – ключевой показатель популярности в Вконтакте, который "
+"способствует развитию профиля."
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:64
+msgid ""
+"Количество репостов – ключевой показатель популярности в Тик Ток, который "
+"способствует развитию профиля."
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:56 mixins/landing3.js:127
+msgid "комментариев"
+msgstr ""
+
+#: components/landing3/Order.vue:273
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:34
+msgid "Комментарии в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:83
+msgid "Комментарии не пропадут?"
+msgstr ""
+
+#: mixins/landing3.js:128
+msgid "комментариями"
+msgstr ""
+
+#: components/landing3/Footer.vue:121
+msgid "контакты"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:30
+msgid ""
+"Купить друзей во Вконтакте - заказать услуги по SMM продвижению. Цены на "
+"продвижение в Вконтакте: накрутка лайков, друзей, подписчиков и комментариев "
+"по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:27
+msgid ""
+"Купить друзей во Вконтакте, купить друзей во Вконтакте дешево на сайте "
+"SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:79
+msgid "купить комментарии в Вконтакте на нашем сайте"
+msgstr ""
+
+#: pages/uslugi/lajki-v-vkontakte/index.vue:30
+msgid ""
+"Купить лайки в ВKонтакте - заказать услуги по SMM продвижению. Цены на "
+"продвижение в ВKонтакте: накрутка лайков, подписчиков, друзей, комментариев, "
+"репостов по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/lajki-v-instagram/index.vue:30
+msgid ""
+"Купить лайки в Инстаграм - заказать услуги по SMM продвижению. Цены на "
+"продвижение в Инстаграм и YouTube: накрутка лайков, просмотров, подписчиков "
+"и комментариев по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/lajki-v-tiktok/index.vue:30
+msgid ""
+"Купить лайки в Тик Ток. Накрутить онлайн и за 5 минут. Сайт SMMTouch.com  - "
+"накрутка лайков в Tik Tok быстро, без регистрации и заданий, настоящих или "
+"ботов."
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:30
+msgid ""
+"Купить лайки в YouTube - заказать услуги по SMM продвижению. Цены на "
+"продвижение в Инстаграм YouTube: накрутка лайков, просмотров, подписчиков и "
+"комментариев по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:27
+msgid ""
+"Купить подписчиков в Вконтакте, накрутка подписчиков в Вконтакте на сайте "
+"SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:59
+msgid "купить подписчиков в Инстаграм на нашем сайте"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:27
+msgid ""
+"Купить подписчиков в Инстаграм, накрутка подписчиков в Инстаграм на сайте "
+"SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:30
+msgid ""
+"Купить подписчиков в Тик Ток. Накрутка живых подписчиков дешево и за 5 "
+"минут. Онлайн сервис SmmTouch.com  - накрутить быстро, без регистрации и "
+"заданий, настоящих или ботов в Tik Tok."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:58
+msgid "купить подписчиков в Ютуб на нашем сайте"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:27
+msgid ""
+"Купить подписчиков в YouTube, накрутка подписчиков в YouTube на сайте "
+"SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:27
+msgid ""
+"Купить просмотры в Инстаграм, купить просмотры в Инстаграм дешево на сайте "
+"SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:30
+msgid ""
+"Купить просмотры в Тик Ток. Накрутить онлайн и за 5 минут. Сайт SMMTouch."
+"com  - накрутка просмотров в Tik Tok онлайн, без регистрации и заданий. "
+"Гарантия."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-youtube/index.vue:30
+msgid ""
+"Купить просмотры в YouTube. Накрутить онлайн и за 5 минут. Сайт SMMTouch.com "
+"- накрутка просмотров в Ютуб онлайн, без регистрации и заданий. Гарантия."
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:30
+msgid ""
+"Купить просмотры сторис в Инстаграм - заказать услуги по накрутке историй. "
+"Цены на продвижение в Инстаграм и YouTube: накрутка лайков, просмотров, "
+"подписчиков и комментариев по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:27
+msgid ""
+"Купить репосты в Вконтакте, купить репосты в Вконтакте дешево на сайте "
+"SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:76
+msgid "купить репосты в Тик Ток на нашем сайте"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:64
+msgid "Купить сейчас"
+msgstr ""
+
+#: mixins/landing3.js:108
+msgid "лайками"
+msgstr ""
+
+#: components/landing3/Order.vue:270
+msgid "Лайки в Вконтакте"
+msgstr ""
+
+#: components/landing3/Order.vue:257
+msgid "Лайки в Инстаграм"
+msgstr ""
+
+#: components/landing3/Order.vue:264
+msgid "Лайки в Тик Ток"
+msgstr ""
+
+#: components/landing3/Order.vue:278
+msgid "Лайки в YouTube"
+msgstr ""
+
+#: components/landing3/Order.vue:229 components/landing3/Order.vue:235
+#: components/landing3/Order.vue:241
+msgid "лайки на будущие посты"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:48 mixins/landing3.js:107
+msgid "лайков"
+msgstr ""
+
+#: components/landing3/Footer.vue:61 components/landing3/Header.vue:61
+#: components/landing3/Nav.vue:75 components/landing3/Thanks.vue:87
+msgid "Личный кабинет"
+msgstr ""
+
+#: components/landing3/Order.vue:121
+msgid "Логин в Инстаграм"
+msgstr ""
+
+#: components/landing3/Order.vue:112 components/landing3/Order.vue:124
+msgid "Логин или ссылка на аккаунт Инстаграм"
+msgstr ""
+
+#: components/landing3/Order.vue:136
+msgid "Логин или ссылка на аккаунт Youtube"
+msgstr ""
+
+#: mixins/validationShort.js:8
+msgid "Логин может включать латинские буквы, числа, символы . и _"
+msgstr ""
+
+#: mixins/validationShort.js:24 mixins/validationShort.js:34
+#: mixins/validationShort.js:48
+msgid "Максимальное значение"
+msgstr ""
+
+#: components/landing3/Nav.vue:22
+msgid "Меню"
+msgstr ""
+
+#: mixins/landing3.js:263
+msgid ""
+"Менять логин после оплаты категорически нельзя. Если такое происходит, мы "
+"теряем вашу страницу, и все усилия, потраченные на раскрутку, сгорают."
+msgstr ""
+
+#: mixins/validationShort.js:19 mixins/validationShort.js:33
+#: mixins/validationShort.js:43 mixins/validationShort.js:57
+msgid "Минимальное значение"
+msgstr ""
+
+#: mixins/landing3.js:248
+msgid "Мой профиль должен быть открытым?"
+msgstr ""
+
+#: mixins/landing3.js:218
+msgid "Мы всегда на связи, чтобы помочь вам в решении любых задач."
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:86
+msgid "Мы даем гарантию 30 дней на накрутку комментариев."
+msgstr ""
+
+#: mixins/landing3.js:268
+msgid ""
+"Мы добросовестно выполняем все заказы. Если сомневаетесь, начните с "
+"минимального заказа в %{PRICE} рублей за %{COUNT} %{SERVICE} - проверите "
+"нашу порядочность."
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:79
+msgid "Мы накручиваем друзей и даем гарантию 30 дней."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:78
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:78
+#: pages/uslugi/podpischiki-v-youtube/index.vue:76
+msgid "Мы накручиваем подписчиков и даем гарантию 30 дней."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:80
+msgid "Мы накручиваем подписчиков с бонусом и даем гарантию 30 дней."
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:83
+msgid "Мы накручиваем репосты и даем гарантию 30 дней."
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:79
+msgid ""
+"Мы накручиваем репосты и даем гарантию 30 дней. Если в течение месяца "
+"репостов станет меньше, чем Вы заказали, то мы вернем их за свой счет!"
+msgstr ""
+
+#: components/error/404.vue:18
+msgid ""
+"Мы не можем найти запрашиваемую Вами страницу. Она может быть еще не "
+"зарегистрирована или её не существует."
+msgstr ""
+
+#: components/landing3/Order.vue:239
+msgid "МЫ НЕ ПЕРЕДАЕМ ВАШУ ПЕРСОНАЛЬНУЮ ИНФОРМАЦИЮ ТРЕТЬИМ ЛИЦАМ"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:99
+msgid "На будущие видео"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:100
+msgid "На будущие посты"
+msgstr ""
+
+#: components/landing3/Order.vue:75
+msgid "На один пост"
+msgstr ""
+
+#: components/landing3/Order.vue:76
+msgid "На последние посты"
+msgstr ""
+
+#: components/landing3/Footer.vue:55
+msgid "навигация"
+msgstr ""
+
+#: components/landing3/Thanks.vue:56
+msgid "Название услуги"
+msgstr ""
+
+#: pages/tiktok/index.vue:21
+msgid ""
+"Накрутить лайки, подписчиков и просмотры в Тик Ток. Быстрая накрутка Tik "
+"Tok. Платно. Без регистраций и заданий. Онлайн сайт - SMMTouch.com."
+msgstr ""
+
+#: components/landing3/Nav.vue:84 pages/index.vue:56 pages/tiktok/index.vue:41
+#: pages/uslugi/avtolajki-v-instagram/index.vue:34
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:40
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:40
+#: pages/uslugi/lajki-v-instagram/index.vue:38
+#: pages/uslugi/lajki-v-tiktok/index.vue:45
+#: pages/uslugi/lajki-v-vkontakte/index.vue:38 pages/vk/index.vue:43
+msgid "Накрутка автолайков"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:34
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:51
+msgid "Накрутка автолайков в ВKонтакте"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:45
+msgid "Накрутка автолайков в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:51
+msgid "Накрутка автолайков в Тик Ток"
+msgstr ""
+
+#: components/landing3/Nav.vue:85 pages/index.vue:59 pages/tiktok/index.vue:44
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:34
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:40
+#: pages/uslugi/prosmotry-v-instagram/index.vue:38
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:44
+msgid "Накрутка автопросмотров"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:45
+msgid "Накрутка автопросмотров в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:51
+msgid "Накрутка автопросмотров в Тик Ток"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:93
+msgid "Накрутка без бана"
+msgstr ""
+
+#: pages/vk/index.vue:70
+msgid "Накрутка в ВКонтакте"
+msgstr ""
+
+#: pages/index.vue:95
+msgid "Накрутка в Инстаграм"
+msgstr ""
+
+#: pages/tiktok/index.vue:51 pages/tiktok/index.vue:58
+#: pages/tiktok/index.vue:68
+msgid "Накрутка в Тик Ток"
+msgstr ""
+
+#: pages/youtube/index.vue:44 pages/youtube/index.vue:54
+msgid "Накрутка в YouTube"
+msgstr ""
+
+#: pages/vk/index.vue:53 pages/vk/index.vue:60
+msgid "Накрутка ВКонтакте"
+msgstr ""
+
+#: components/landing3/Nav.vue:87 pages/uslugi/druzya-v-vkontakte/index.vue:40
+#: pages/vk/index.vue:40
+msgid "Накрутка друзей"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:47
+msgid "Накрутка друзей в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:66
+msgid "Накрутка друзей в Вконтакте на свой аккаунт позволит вам:"
+msgstr ""
+
+#: pages/vk/index.vue:27
+msgid "Накрутка и продвижение аккаунтов ВКонтакте"
+msgstr ""
+
+#: pages/index.vue:40
+msgid "Накрутка и продвижение аккаунтов Инстаграм"
+msgstr ""
+
+#: pages/tiktok/index.vue:25
+msgid "Накрутка и продвижение аккаунтов Тик Ток"
+msgstr ""
+
+#: pages/youtube/index.vue:27
+msgid "Накрутка и продвижение YouTube аккаунтов"
+msgstr ""
+
+#: pages/index.vue:66 pages/index.vue:73
+msgid "Накрутка Инстаграм"
+msgstr ""
+
+#: components/landing3/Nav.vue:86
+msgid "Накрутка историй"
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:27
+msgid ""
+"Накрутка историй Инстаграм, купить просмотры сторис в Инстаграм  smmtouch.com"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-youtube/index.vue:45
+msgid ""
+"Накрутка качественных просмотров на видео в Ютуб стала отличным инструментом "
+"для развития канала. Чем больше видео собирает просмотров, тем популярнее "
+"оно становится и тем выше вероятность его попадания в топ."
+msgstr ""
+
+#: components/landing3/Nav.vue:88
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:40 pages/vk/index.vue:46
+msgid "Накрутка комментариев"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:47
+msgid "Накрутка комментариев в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:30
+msgid ""
+"Накрутка комментариев в Вконтакте - заказать услуги по SMM продвижению. Цены "
+"на продвижение в Вконтакте: накрутка лайков, комментариев, подписчиков и "
+"комментариев по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:66
+msgid "Накрутка комментариев в Вконтакте на свой аккаунт позволит вам:"
+msgstr ""
+
+#: components/landing3/Nav.vue:81 pages/index.vue:47 pages/tiktok/index.vue:32
+#: pages/uslugi/avtolajki-v-instagram/index.vue:38
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:44
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:44
+#: pages/uslugi/lajki-v-instagram/index.vue:34
+#: pages/uslugi/lajki-v-tiktok/index.vue:41
+#: pages/uslugi/lajki-v-vkontakte/index.vue:34
+#: pages/uslugi/lajki-v-youtube/index.vue:34 pages/vk/index.vue:34
+#: pages/youtube/index.vue:34
+msgid "Накрутка лайков"
+msgstr ""
+
+#: pages/uslugi/lajki-v-vkontakte/index.vue:45
+msgid "Накрутка лайков в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/lajki-v-vkontakte/index.vue:27
+msgid ""
+"Накрутка лайков в ВKонтакте, купить лайки в ВKонтакте онлайн на сайте "
+"SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/lajki-v-instagram/index.vue:45
+msgid "Накрутка лайков в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/lajki-v-instagram/index.vue:27
+msgid ""
+"Накрутка лайков в Инстаграм, купить лайки в Инстаграм онлайн на сайте "
+"SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/lajki-v-tiktok/index.vue:52
+msgid "Накрутка лайков в Тик Ток"
+msgstr ""
+
+#: pages/uslugi/lajki-v-tiktok/index.vue:27
+msgid ""
+"Накрутка Лайков в Тик Ток, Купить Лайки в Tik Tok онлайн на SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:62
+msgid "Накрутка лайков в Ютуб начинается через 30-60 минут после оплаты."
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:41
+msgid "Накрутка лайков в YouTube"
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:27
+msgid ""
+"Накрутка лайков в YouTube, купить лайки в YouTube онлайн на сайте SMMTouch."
+"com"
+msgstr ""
+
+#: pages/index.vue:118
+msgid "Накрутка лайков и просмотров начинается через 5-30 минут после оплаты."
+msgstr ""
+
+#: pages/tiktok/index.vue:82 pages/vk/index.vue:74
+msgid ""
+"Накрутка лайков и просмотров начинается через 5-30 минут после оплаты. "
+"Накрутка подписчиков начинается в течение 5-300 минут после оплаты."
+msgstr ""
+
+#: pages/youtube/index.vue:58
+msgid ""
+"Накрутка лайков начинается через 30-60 минут после оплаты. Накрутка "
+"подписчиков начинается в течение 30-300 минут после оплаты. Накрутка "
+"просмотров в ютуб начинается в течение нескольких часов после оплаты."
+msgstr ""
+
+#: components/landing3/Nav.vue:82 pages/index.vue:50 pages/tiktok/index.vue:35
+#: pages/uslugi/podpischiki-v-instagram/index.vue:34
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:40
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:40
+#: pages/uslugi/podpischiki-v-youtube/index.vue:34 pages/vk/index.vue:37
+#: pages/youtube/index.vue:37
+msgid "Накрутка подписчиков"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:47
+msgid "Накрутка подписчиков в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:65
+msgid "Накрутка подписчиков в Вконтакте на свой аккаунт позволит вам:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:41
+msgid "Накрутка подписчиков в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:46
+msgid "Накрутка подписчиков в Инстаграм на свой аккаунт позволит вам:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:47
+msgid "Накрутка подписчиков в Тик Ток"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:65
+msgid "Накрутка подписчиков в Тик Ток на свой аккаунт позволит вам:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:27
+msgid ""
+"Накрутка Подписчиков в Тик Ток, Купить Подписчиков Онлайн на SMMTouch.com"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:46
+msgid "Накрутка подписчиков в Ютуб позволит вам:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:41
+msgid "Накрутка подписчиков в YouTube"
+msgstr ""
+
+#: pages/index.vue:119
+msgid "Накрутка подписчиков начинается в течение 5-300 минут после оплаты."
+msgstr ""
+
+#: layouts/landing3.vue:54
+msgid ""
+"Накрутка подписчиков, лайков и просмотров. Быстро и недорого с гарантией на "
+"сайте SMMTouch.com."
+msgstr ""
+
+#: mixins/landing3.js:245
+msgid "Накрутка производится постепенно, в целях безопасности вашего аккаунта."
+msgstr ""
+
+#: pages/index.vue:88 pages/uslugi/istorii-v-instagram/index.vue:52
+msgid ""
+"Накрутка происходит на все активные истории на момент оформления заказа, на "
+"указанное вами количество просмотров."
+msgstr ""
+
+#: components/landing3/Nav.vue:83 pages/index.vue:53 pages/tiktok/index.vue:38
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:38
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:44
+#: pages/uslugi/prosmotry-v-instagram/index.vue:34
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:40
+#: pages/uslugi/prosmotry-v-youtube/index.vue:34 pages/youtube/index.vue:40
+msgid "Накрутка просмотров"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:45
+msgid "Накрутка просмотров в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:51
+msgid "Накрутка просмотров в Тик Ток"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:27
+msgid ""
+"Накрутка Просмотров в Тик Ток, Купить Просмотры в Tik Tok онлайн на SMMTouch."
+"com"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-youtube/index.vue:61
+msgid "Накрутка просмотров в Ютуб начинается через 30-60 минут после оплаты."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-youtube/index.vue:41
+msgid "Накрутка просмотров в YouTube"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-youtube/index.vue:27
+msgid ""
+"Накрутка Просмотров в YouTube, Купить Просмотры в Ютуб онлайн на SMMTouch.com"
+msgstr ""
+
+#: pages/index.vue:62 pages/uslugi/istorii-v-instagram/index.vue:40
+msgid "Накрутка просмотров историй"
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:34
+#: pages/uslugi/istorii-v-instagram/index.vue:59
+msgid "Накрутка просмотров историй в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:88
+msgid "Накрутка просмотров историй начинается через 30-60 минут после оплаты."
+msgstr ""
+
+#: components/landing3/Nav.vue:89 pages/tiktok/index.vue:47
+#: pages/uslugi/reposty-v-tiktok/index.vue:40
+#: pages/uslugi/reposty-v-vkontakte/index.vue:41 pages/vk/index.vue:49
+msgid "Накрутка репостов"
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:48
+msgid "Накрутка репостов в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:53
+msgid "Накрутка репостов в Вконтакте на свой аккаунт позволит вам:"
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:47
+msgid "Накрутка репостов в Тик Ток"
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:65
+msgid "Накрутка репостов в Тик Ток на свой аккаунт позволит вам:"
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:27
+msgid ""
+"Накрутка репостов в Тик Ток, купить репосты в Tik Tok недорого на SMMTouch."
+"com"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:95
+msgid "Накрутка с запасом"
+msgstr ""
+
+#: components/landing3/Features.vue:16
+msgid "Наши преимущества"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:74
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:74
+#: pages/uslugi/lajki-v-tiktok/index.vue:75
+#: pages/uslugi/lajki-v-vkontakte/index.vue:68
+msgid "Нет времени заходить и заказывать лайки вручную на новые публикации?"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:68
+#: pages/uslugi/lajki-v-instagram/index.vue:71
+msgid "Нет времени заходить и заказывать лайки вручную на новые фото?"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:68
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:74
+#: pages/uslugi/prosmotry-v-instagram/index.vue:68
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:74
+msgid "Нет времени заходить и заказывать просмотры вручную на новые видео?"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:76
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:70
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:76
+#: pages/uslugi/prosmotry-v-instagram/index.vue:70
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:76
+msgid "Нет проблем! Мы предлагаем"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:70
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:76
+#: pages/uslugi/lajki-v-instagram/index.vue:73
+#: pages/uslugi/lajki-v-tiktok/index.vue:77
+#: pages/uslugi/lajki-v-vkontakte/index.vue:70
+msgid "Нет проблем! Мы также предлагаем"
+msgstr ""
+
+#: mixins/landing3.js:211
+msgid "Низкие цены"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:66
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:72
+msgid "Нужны автопросмотры на будущие публикации?"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:66
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:72
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:72
+#: pages/uslugi/lajki-v-instagram/index.vue:69
+#: pages/uslugi/lajki-v-tiktok/index.vue:73
+#: pages/uslugi/lajki-v-vkontakte/index.vue:66
+msgid "Нужны лайки на будущие публикации?"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:66
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:72
+msgid "Нужны просмотры на будущие видео?"
+msgstr ""
+
+#: components/landing3/Footer.vue:64
+msgid "Отзывы"
+msgstr ""
+
+#: mixins/landing3.js:217
+msgid "Отличная поддержка"
+msgstr ""
+
+#: components/landing3/Order.vue:308
+msgid "ОФОРМИТЬ ЗАЯВКУ"
+msgstr ""
+
+#: components/landing3/Order.vue:246
+msgid "ПЕРЕЙТИ К ОПЛАТЕ"
+msgstr ""
+
+#: pages/tiktok/index.vue:26
+msgid ""
+"Повышайте свою популярность в TikTok всего в несколько кликов, просто и "
+"эффективно!"
+msgstr ""
+
+#: mixins/landing3.js:116
+msgid "подписчиками"
+msgstr ""
+
+#: components/landing3/Order.vue:271
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:34
+msgid "Подписчики в Вконтакте"
+msgstr ""
+
+#: components/landing3/Order.vue:256
+msgid "Подписчики в Инстаграм"
+msgstr ""
+
+#: components/landing3/Order.vue:265
+msgid "Подписчики в Тик Ток"
+msgstr ""
+
+#: components/landing3/Order.vue:277
+msgid "Подписчики в YouTube"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:30
+msgid ""
+"Подписчики для Вконтакте - заказать услуги по SMM продвижению. Цены на "
+"продвижение в Вконтакте: накрутка лайков, подписчиков, друзей, комментариев, "
+"репостов по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:30
+msgid ""
+"Подписчики для Инстаграм - заказать услуги по SMM продвижению. Цены на "
+"продвижение в Инстаграм и YouTube: накрутка лайков, просмотров, подписчиков "
+"и комментариев по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:30
+msgid ""
+"Подписчики для YouTube - заказать услуги по SMM продвижению. Цены на "
+"продвижение в Инстаграм и YouTube: накрутка лайков, просмотров, подписчиков "
+"и комментариев по доступным ценам."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:77
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:75
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:75
+#: pages/uslugi/podpischiki-v-youtube/index.vue:73
+msgid "Подписчики не отпишутся?"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:50 mixins/landing3.js:115
+msgid "подписчиков"
+msgstr ""
+
+#: mixins/validationShort.js:6 mixins/validationShort.js:17
+#: mixins/validationShort.js:31 mixins/validationShort.js:41
+#: mixins/validationShort.js:55 mixins/validationShort.js:64
+#: mixins/validationShort.js:68
+msgid "Поле обязательно для заполнения"
+msgstr ""
+
+#: components/landing3/Footer.vue:65
+msgid "Политика конфиденциальности"
+msgstr ""
+
+#: mixins/landing3.js:228
+msgid "Пользоваться нашим сервисом удобно даже для новичков."
+msgstr ""
+
+#: pages/uslugi/lajki-v-vkontakte/index.vue:63
+msgid ""
+"Продвижение бизнеса таким способом поможет быть ближе к клиентам, "
+"способствует развитию бренда и достижению таких целей как: регулярный рост "
+"продаж, увеличение трафика, конверсии, привлечение лояльной или новой "
+"аудитории, уменьшение бюджета на рекламу."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:50
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:69
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:69
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:50
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:69
+#: pages/uslugi/lajki-v-tiktok/index.vue:70
+#: pages/uslugi/prosmotry-v-instagram/index.vue:50
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:69
+msgid ""
+"Продвижение бизнеса таким способом поможет быть ближе к клиентам, "
+"способствует развитию бренда и достижению таких целей: регулярный рост "
+"продаж, увеличение трафика, конверсии, привлечение лояльной или новой "
+"аудитории, уменьшение бюджета на рекламу."
+msgstr ""
+
+#: mixins/landing3.js:251
+msgid "Продвижение закрытых страниц невозможно."
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-youtube/index.vue:46
+msgid ""
+"Продвижение канала в Ютуб таким способом поможет увеличить живую активность "
+"и количество подписчиков."
+msgstr ""
+
+#: components/landing3/Order.vue:571 components/landing3/Order.vue:572
+#: components/landing3/Thanks.vue:99 components/landing3/Thanks.vue:100
+#: components/landing3/Thanks.vue:168 components/landing3/Thanks.vue:169
+msgid "Произошла ошибка"
+msgstr ""
+
+#: mixins/landing3.js:112
+msgid "просмотрами"
+msgstr ""
+
+#: mixins/landing3.js:140
+msgid "просмотрами историй"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:49 mixins/landing3.js:111
+msgid "просмотров"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:53 mixins/landing3.js:139
+msgid "просмотров историй"
+msgstr ""
+
+#: components/landing3/Order.vue:258
+msgid "Просмотры в Инстаграм"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:30
+msgid ""
+"Просмотры в Инстаграм - заказать услуги по SMM продвижению. Цены на "
+"продвижение в Инстаграм и YouTube: накрутка лайков, просмотров, подписчиков "
+"и комментариев по доступным ценам."
+msgstr ""
+
+#: components/landing3/Order.vue:263
+msgid "Просмотры в Тик Ток"
+msgstr ""
+
+#: components/landing3/Order.vue:279
+msgid "Просмотры в YouTube"
+msgstr ""
+
+#: pages/index.vue:87 pages/uslugi/istorii-v-instagram/index.vue:51
+msgid ""
+"Просмотры Историй - это размещение временных публикаций в аккаунте "
+"Инстаграм, сроком до 24-х часов – после записи удаляются."
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:82
+msgid ""
+"Просмотры историй (Stories) – одно из самых популярных действий в "
+"Инстаграме. Пользователи проявляют таким образом участие в «инстажизни» "
+"других людей – друзей, знакомых, блогеров."
+msgstr ""
+
+#: components/landing3/Order.vue:261
+msgid "Просмотры историй в Инстаграм"
+msgstr ""
+
+#: components/landing3/Order.vue:232 components/landing3/Order.vue:238
+msgid "просмотры на будущие видео"
+msgstr ""
+
+#: mixins/landing3.js:120
+msgid "репостами"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:54 mixins/landing3.js:119
+msgid "репостов"
+msgstr ""
+
+#: components/landing3/Order.vue:275
+#: pages/uslugi/reposty-v-vkontakte/index.vue:34
+msgid "Репосты в Вконтакте"
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:30
+msgid ""
+"Репосты в Вконтакте - заказать услуги по SMM продвижению. Цены на "
+"продвижение в Вконтакте и YouTube: накрутка лайков, просмотров, подписчиков "
+"и комментариев по доступным ценам."
+msgstr ""
+
+#: components/landing3/Order.vue:268
+msgid "Репосты в Тик Ток"
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:30
+msgid ""
+"Репосты в Тик Ток - заказать услуги по SMM продвижению. Онлайн накрутка "
+"репостов в Tik Tok - платно, без заданий и регистрации. Дешево и с гарантией."
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:80
+#: pages/uslugi/reposty-v-vkontakte/index.vue:76
+msgid "Репосты не пропадут?"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:80
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:80
+#: pages/uslugi/lajki-v-tiktok/index.vue:81
+#: pages/uslugi/lajki-v-vkontakte/index.vue:74
+msgid ""
+"С помощью данной услуги вы будете автоматически получать лайки на новые "
+"публикации. Количество лайков и публикаций вы выбираете сами."
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:74
+#: pages/uslugi/lajki-v-instagram/index.vue:77
+msgid ""
+"С помощью данной услуги вы будете автоматически получать лайки на новые "
+"фото. Количество лайков и публикаций вы выбираете сами."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:80
+#: pages/uslugi/prosmotry-v-instagram/index.vue:74
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:80
+msgid ""
+"С помощью данной услуги вы будете автоматически получать просмотры на новые "
+"видео. Количество просмотров и публикаций вы выбираете сами."
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:74
+msgid ""
+"С помощью данной услуги вы будете автоматически получать просмотры на новые "
+"фото. Количество просмотров вы выбираете сами."
+msgstr ""
+
+#: pages/vk/index.vue:80
+msgid "С SMMTouch заказать накрутку в ВК очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/index.vue:99
+msgid ""
+"С SMMTouch заказать накрутку в Инстаграм очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/tiktok/index.vue:72
+msgid ""
+"С SMMTouch заказать накрутку в Тик Ток очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/youtube/index.vue:64
+msgid "С SMMTouch заказать накрутку в Ютуб очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:55
+msgid ""
+"С SMMTouch купить автолайки в Вконтакте очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:55
+msgid ""
+"С SMMTouch купить автолайки в Тик Ток очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-instagram/index.vue:55
+msgid ""
+"С SMMTouch купить автолайки в Instagram очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:55
+msgid ""
+"С SMMTouch купить автопросмотры в Тик Ток очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/avtoprosmotry-v-instagram/index.vue:55
+msgid ""
+"С SMMTouch купить автопросмотры в Instagram очень просто, для этого "
+"необходимо:"
+msgstr ""
+
+#: pages/uslugi/druzya-v-vkontakte/index.vue:51
+msgid ""
+"С SMMTouch купить друзей в Вконтакте очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:51
+msgid ""
+"С SMMTouch купить комментарии в Вконтакте очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/lajki-v-vkontakte/index.vue:49
+msgid "С SMMTouch купить лайки в Вконтакте очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/lajki-v-tiktok/index.vue:56
+msgid "С SMMTouch купить лайки в Тик Ток очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:52
+msgid "С SMMTouch купить лайки в Ютуб очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/lajki-v-instagram/index.vue:49
+msgid "С SMMTouch купить лайки в Instagram очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:51
+msgid ""
+"С SMMTouch купить подписчиков в Вконтакте очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-instagram/index.vue:65
+msgid ""
+"С SMMTouch купить подписчиков в Инстаграм очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:51
+msgid ""
+"С SMMTouch купить подписчиков в Тик Ток очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:64
+msgid ""
+"С SMMTouch купить подписчиков в Ютуб очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:55
+msgid ""
+"С SMMTouch купить просмотры в Тик Ток очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-youtube/index.vue:51
+msgid "С SMMTouch купить просмотры в Ютуб очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/prosmotry-v-instagram/index.vue:55
+msgid ""
+"С SMMTouch купить просмотры в Instagram очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:63
+msgid ""
+"С SMMTouch купить просмотры историй в Instagram очень просто, для этого "
+"необходимо:"
+msgstr ""
+
+#: pages/uslugi/reposty-v-vkontakte/index.vue:65
+msgid ""
+"С SMMTouch купить репосты в Вконтакте очень просто, для этого необходимо:"
+msgstr ""
+
+#: pages/uslugi/reposty-v-tiktok/index.vue:51
+msgid "С SMMTouch купить репосты в Тик Ток очень просто, для этого необходимо:"
+msgstr ""
+
+#: components/landing3/CarouselsCard.vue:30
+msgid "СКИДКА"
+msgstr ""
+
+#: components/landing3/Order.vue:175
+msgid "Сколько хотите друзей?"
+msgstr ""
+
+#: components/landing3/Order.vue:178
+msgid "Сколько хотите комментариев?"
+msgstr ""
+
+#: components/landing3/Order.vue:192
+msgid "Сколько хотите лайков на (каждый) пост?"
+msgstr ""
+
+#: components/landing3/Order.vue:149
+msgid "Сколько хотите лайков?"
+msgstr ""
+
+#: components/landing3/Order.vue:163
+msgid "Сколько хотите подписчиков?"
+msgstr ""
+
+#: components/landing3/Order.vue:172
+msgid "Сколько хотите просмотров историй?"
+msgstr ""
+
+#: components/landing3/Order.vue:184
+msgid "Сколько хотите просмотров на пост?"
+msgstr ""
+
+#: components/landing3/Order.vue:155 components/landing3/Order.vue:195
+msgid "Сколько хотите просмотров?"
+msgstr ""
+
+#: components/landing3/Order.vue:169
+msgid "Сколько хотите репостов?"
+msgstr ""
+
+#: components/landing3/Thanks.vue:52
+msgid "Спасибо за заказ"
+msgstr ""
+
+#: components/landing3/Order.vue:115
+msgid "Ссылка на видео Инстаграм"
+msgstr ""
+
+#: components/landing3/Order.vue:127
+msgid "Ссылка на видео Тик Ток"
+msgstr ""
+
+#: components/landing3/Order.vue:133
+msgid "Ссылка на видео Youtube"
+msgstr ""
+
+#: components/landing3/Order.vue:118
+msgid "Ссылка на историю Инстаграм"
+msgstr ""
+
+#: components/landing3/Order.vue:130
+msgid "Ссылка на публикацию ВК"
+msgstr ""
+
+#: components/landing3/Order.vue:111
+msgid "Ссылка на публикацию Инстаграм"
+msgstr ""
+
+#: pages/uslugi/avtolajki-v-tiktok/index.vue:35
+#: pages/uslugi/avtolajki-v-vkontakte/index.vue:35
+#: pages/uslugi/avtoprosmotry-v-tiktok/index.vue:35
+#: pages/uslugi/druzya-v-vkontakte/index.vue:35
+#: pages/uslugi/kommentarii-v-vkontakte/index.vue:35
+#: pages/uslugi/lajki-v-tiktok/index.vue:36
+#: pages/uslugi/podpischiki-v-tiktok/index.vue:35
+#: pages/uslugi/podpischiki-v-vkontakte/index.vue:35
+#: pages/uslugi/prosmotry-v-tiktok/index.vue:35
+#: pages/uslugi/reposty-v-tiktok/index.vue:35
+#: pages/uslugi/reposty-v-vkontakte/index.vue:35
+msgid ""
+"Станьте популярным и выведите свой аккаунт на новый уровень всего в "
+"несколько кликов!"
+msgstr ""
+
+#: components/landing3/Order.vue:233
+msgid "СТОИМОСТЬ ЗАКАЗА"
+msgstr ""
+
+#: components/error/404.vue:15 components/error/404.vue:17
+msgid "Страница не найдена"
+msgstr ""
+
+#: mixins/landing3.js:252
+msgid "Также на профиле не должно быть установлено возрастных ограничений."
+msgstr ""
+
+#: pages/uslugi/istorii-v-instagram/index.vue:83
+msgid ""
+"Также с помощью накрутки историй в Инстаграм коммерческие аккаунты "
+"продвигают свои услуги, напоминают покупателям о товарах, скидках, акциях, "
+"рассказывают о процессе работы. Поэтому увеличение зрителей историй "
+"Инстаграм – это многофункциональный инструмент."
+msgstr ""
+
+#: mixins/landing3.js:157
+msgid "Тик Ток"
+msgstr ""
+
+#: components/landing3/Nav.vue:74
+msgid "ТикТок"
+msgstr ""
+
+#: mixins/landing3.js:227
+msgid "Удобный интерфейс"
+msgstr ""
+
+#: mixins/validationShort.js:10
+msgid "Укажите ссылку на пост в инстаграм"
+msgstr ""
+
+#: mixins/validationShort.js:11
+msgid "Укажите ссылку на пост в IGTV"
+msgstr ""
+
+#: mixins/validationShort.js:18 mixins/validationShort.js:32
+#: mixins/validationShort.js:42 mixins/validationShort.js:56
+#: mixins/validationShort.js:65 mixins/validationShort.js:69
+msgid "Укажите целое число"
+msgstr ""
+
+#: mixins/validationShort.js:7
+msgid "Укажите url адрес для продолжения заказа"
+msgstr ""
+
+#: mixins/landing3.js:221
+msgid "Улучшают статистику"
+msgstr ""
+
+#: components/landing3/Carousels.vue:95 components/landing3/Order.vue:489
+msgid "Услуга временно недоступна"
+msgstr ""
+
+#: components/landing3/Accordion.vue:9
+msgid "Часто задаваемые вопросы"
+msgstr ""
+
+#: pages/uslugi/lajki-v-youtube/index.vue:47
+msgid ""
+"Чем больше видео их собирает, тем популярнее становится и сам Ютуб аккаунт."
+msgstr ""
+
+#: pages/uslugi/podpischiki-v-youtube/index.vue:70
+msgid ""
+"Через 5-300 мин. после оплаты можно увидеть результат. Если у вас есть "
+"сомнения, начните с минимального заказа и проверьте, как это работает. "
+"Воспользуйтесь сервисом SMMTouch, и у вас навсегда отпадет вопрос: как "
+"накрутить подписчиков в YouTube быстро и дешево."
+msgstr ""
+
+#: mixins/landing3.js:239
+msgid "Через какое время выполняются услуги?"
+msgstr ""
+
+#: pages/index.vue:116 pages/tiktok/index.vue:80
+#: pages/uslugi/istorii-v-instagram/index.vue:86
+#: pages/uslugi/lajki-v-youtube/index.vue:60
+#: pages/uslugi/prosmotry-v-youtube/index.vue:59 pages/vk/index.vue:72
+#: pages/youtube/index.vue:56
+msgid "Через сколько начинается накрутка?"
+msgstr ""
+
+#: mixins/landing3.js:255
+msgid "Что такое автолайки и автопросмотры?"
+msgstr ""
+
+#: pages/index.vue:85 pages/uslugi/istorii-v-instagram/index.vue:49
+msgid "Что такое просмотры Историй в Инстаграм? Как они накручиваются?"
+msgstr ""
+
+#: mixins/landing3.js:275
+msgid "Это живые люди?"
+msgstr ""
+
+#: components/landing3/Nav.vue:75
+msgid "Ютуб"
+msgstr ""
+
+#: mixins/landing3.js:261
+msgid "Я могу поменять логин после оформления заказа?"
+msgstr ""
+
+#: mixins/landing3.js:280
+msgid "Я нахожусь в другой стране, могу ли я оформить заказ?"
+msgstr ""
+
+#: components/landing3/Order.vue:138
+msgid "Cсылка на аккаунт или логин"
+msgstr ""
+
+#: components/landing3/Thanks.vue:59
+msgid "Cумма"
+msgstr ""
+
+#: components/landing3/Footer.vue:60
+msgid "FAQ"
+msgstr ""
+
+#: layouts/landing3.vue:51
+msgid "SMMTouch.com - Накрутка лайков, подписчиков, просмотров"
+msgstr ""
+
+#: mixins/landing3.js:165
+msgid "YouTube"
+msgstr ""
