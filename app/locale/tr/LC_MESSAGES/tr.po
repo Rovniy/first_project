@@ -8,7 +8,7 @@ msgstr ""
 "PO-Revision-Date: 2021-09-23 15:02\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
-"Language: en\n"
+"Language: tr\n"
 
 msgid "• Повысить доверие к каналу."
 msgstr ""
@@ -1322,10 +1322,10 @@ msgid "Cумма"
 msgstr ""
 
 msgid "FAQ"
-msgstr "FAQ"
+msgstr ""
 
 msgid "SMMTouch.com - Накрутка лайков, подписчиков, просмотров"
-msgstr "SMMTouch.com - Boost likes, subscribers, views"
+msgstr ""
 
 msgid "YouTube"
 msgstr "Youtube"
