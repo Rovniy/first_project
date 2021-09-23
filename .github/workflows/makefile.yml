@@ -12,8 +12,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    
+    - uses: actions/checkout@v2   
+
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v2.4.0
+      with:
+        always-auth: false
+        node-version: 14
+        architecture: x64
+        cache: npm
+       
+    - name: Install
+      run: npm run install
+      
     - name: Clean
       run: make clean
       
