@@ -1,0 +1,29 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+.idea
+
+# local env files
+.env.local
+.env.*.local
+.env
+
+# for MacOS
+.DS_Store
+.DS_Stores
+
+docker
+
+static/robots.txt
+
+/tmp
+*~
