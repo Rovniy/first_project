@@ -2,9 +2,8 @@ name: Makefile CI
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    paths:
+      - 'app/locale/**'
 
 jobs:
   build:
